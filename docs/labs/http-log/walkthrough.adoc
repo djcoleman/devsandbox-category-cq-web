@@ -12,7 +12,7 @@ endif::[]
 [id='lab-intro']
 = Camel Quarkus - HTTP Log
 
-Explore, build, test and deploy a Camel X demo application using the Developer Sandbox and OpenShift Dev Spaces.
+Demonstrates the creation of REST endpoints using Camel routes as well as Quarkus Resources.
 
 This hands-on lab is based on the following blog article in Red Hat Developers:
 
